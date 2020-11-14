@@ -5,6 +5,8 @@
 | Link | Description |
 | ------ | ------ |
 | https://www.youtube.com/channel/UChJgHXUPigDCTSnYyX3jcVw |  Tech Pechu |
+| https://www.youtube.com/channel/UCfKDDL3Tck4SZ2jsMTUcEpA |  Cheetah Media |
+
 
 
 ### Property Buying

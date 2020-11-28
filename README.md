@@ -1,7 +1,7 @@
 
 # Tamil YouTube channels category wise collection
 
-### Economy
+### Finance | Economy
 | Link | Description |
 | ------ | ------ |
 | https://www.youtube.com/channel/UC7fQFl37yAOaPaoxQm-TqSA |  Money Pechu |

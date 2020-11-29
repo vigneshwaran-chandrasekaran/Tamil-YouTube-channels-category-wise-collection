@@ -6,6 +6,8 @@
 | Link | Description |
 | ------ | ------ |
 | https://www.youtube.com/watch?v=4wNBRs2CXuU |  Shruti TV |
+| https://www.youtube.com/channel/UCudOVjr2V6uSRGqH0b2ivyA | Bava Chelladurai |
+
 
 ### Finance | Economy
 | Link | Description |

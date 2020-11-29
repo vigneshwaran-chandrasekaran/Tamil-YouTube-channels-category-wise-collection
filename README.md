@@ -1,6 +1,12 @@
 
 # Tamil YouTube channels category wise collection
 
+
+### Literature
+| Link | Description |
+| ------ | ------ |
+| https://www.youtube.com/watch?v=4wNBRs2CXuU |  Shruti TV |
+
 ### Finance | Economy
 | Link | Description |
 | ------ | ------ |

@@ -38,7 +38,7 @@
 | Link | Description |
 | ------ | ------ |
 | https://www.youtube.com/channel/UCWJ1FAQjZxMkniSOYxS9k5Q |  HONEY BUILDERS|
-| https://www.youtube.com/channel/UCvteeHv3uq65Orhj0gacUig |  Veedu|
+| https://www.youtube.com/c/Veeduchannel |  Veedu|
 
 
 ### Food Vlog

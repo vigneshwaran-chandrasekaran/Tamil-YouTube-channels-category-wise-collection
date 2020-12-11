@@ -8,6 +8,13 @@
 | https://www.youtube.com/watch?v=4wNBRs2CXuU |  Shruti TV |
 | https://www.youtube.com/channel/UCudOVjr2V6uSRGqH0b2ivyA | Bava Chelladurai |
 
+### Educaton | Science
+| Link | Description |
+| ------ | ------ |
+| https://www.youtube.com/user/premanand20081 |  Let's Make Education Simple  |
+
+
+
 
 ### Finance | Economy
 | Link | Description |

@@ -21,6 +21,9 @@
 | ------ | ------ |
 | https://www.youtube.com/channel/UC7fQFl37yAOaPaoxQm-TqSA |  Money Pechu |
 | https://www.youtube.com/channel/UCKZ0uhG1vj2XtI3t6ApN_IA |  Prakala Wealth Management Pvt. Ltd. |
+| https://www.youtube.com/channel/UCahsYnjbRheSL7uv6jWbJ4w |  Muthaleetukalam முதலீட்டுகளம் |
+
+
 
 ### Tamil Software development
 | Link | Description |

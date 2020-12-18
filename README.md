@@ -54,3 +54,9 @@
 | ------ | ------ |
 | https://www.youtube.com/user/smashingirfan |  Irfan's view |
 
+### Law
+| Link | Description |
+| ------ | ------ |
+| https://www.youtube.com/channel/UCTHbahRpFT_qowaPuFSKbLQ |  சட்ட பஞ்சாயத்து |
+
+

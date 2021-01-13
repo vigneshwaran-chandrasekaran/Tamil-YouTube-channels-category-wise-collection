@@ -30,6 +30,8 @@
 | ------ | ------ |
 | https://www.youtube.com/channel/UChJgHXUPigDCTSnYyX3jcVw |  Tech Pechu |
 | https://www.youtube.com/channel/UCfKDDL3Tck4SZ2jsMTUcEpA |  Cheetah Media |
+| https://www.youtube.com/user/tamilboomi |  Tamilboomi |
+
 
 ### Property Buying
 | Link | Description |

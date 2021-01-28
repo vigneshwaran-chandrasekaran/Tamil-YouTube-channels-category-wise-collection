@@ -61,4 +61,12 @@
 | ------ | ------ |
 | https://www.youtube.com/channel/UCTHbahRpFT_qowaPuFSKbLQ |  சட்ட பஞ்சாயத்து |
 
+### Business Vlogs
+| Link | Description |
+| ------ | ------ |
+
+| https://www.youtube.com/channel/UC__xQiIU59lV0qdHnWIJVZA |  Business Tamizha |
+| https://www.youtube.com/channel/UCH-if7s79w-FyTh0ap2to0w |  Business Pannalam |
+| https://www.youtube.com/channel/UCA2zq3TcW_mrKHI1T7BrzjA |  yummy vlogs |
+
 

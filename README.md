@@ -70,3 +70,11 @@
 | https://www.youtube.com/channel/UCA2zq3TcW_mrKHI1T7BrzjA |  yummy vlogs |
 
 
+### Electrical
+| Link | Description |
+| ------ | ------ |
+
+| https://www.youtube.com/channel/UCIIIKudjRlpV9mdh9YOs0eQ |  Sakalakala Tv |
+| https://www.youtube.com/channel/UCk38G76FoePmUesbglFpAaQ |  Electrical Express- தமிழ் |
+
+

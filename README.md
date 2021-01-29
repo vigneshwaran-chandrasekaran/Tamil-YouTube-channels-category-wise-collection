@@ -64,7 +64,6 @@
 ### Business Vlogs
 | Link | Description |
 | ------ | ------ |
-
 | https://www.youtube.com/channel/UC__xQiIU59lV0qdHnWIJVZA |  Business Tamizha |
 | https://www.youtube.com/channel/UCH-if7s79w-FyTh0ap2to0w |  Business Pannalam |
 | https://www.youtube.com/channel/UCA2zq3TcW_mrKHI1T7BrzjA |  yummy vlogs |
@@ -73,7 +72,6 @@
 ### Electrical
 | Link | Description |
 | ------ | ------ |
-
 | https://www.youtube.com/channel/UCIIIKudjRlpV9mdh9YOs0eQ |  Sakalakala Tv |
 | https://www.youtube.com/channel/UCk38G76FoePmUesbglFpAaQ |  Electrical Express- தமிழ் |
 

@@ -60,6 +60,8 @@
 | Link | Description |
 | ------ | ------ |
 | https://www.youtube.com/channel/UCTHbahRpFT_qowaPuFSKbLQ |  சட்ட பஞ்சாயத்து |
+| https://www.youtube.com/channel/UCYVss6xw4io5RcLYNAJ7nEg |  Mr Ynot |
+
 
 ### Business Vlogs
 | Link | Description |

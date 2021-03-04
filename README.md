@@ -10,6 +10,8 @@
 |https://www.youtube.com/channel/UCgR7-JP41pV_beUBAYjzNMg | Desanthiri Pathippagam |
 |https://www.youtube.com/channel/UCSwGAn-PB8yu4tAUuwuig4Q | ILAKIYA OLI - இலக்கியஒலி |
 |https://www.youtube.com/channel/UCtjeD2VEo2DMxrnhyt4UrxQ |Arivu Square |
+|https://www.youtube.com/c/ThagavalThalam |Thagaval Thalam|
+
 
 
 
